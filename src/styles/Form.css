@@ -1,0 +1,29 @@
+body{
+    background: linear-gradient(90deg, rgba(36,0,0,1) 0%, rgba(121,9,62,1) 35%, rgba(255,0,0,1) 100%);
+}
+.box{
+    
+    width: 30%;
+    height: 50%;
+    text-align: center;
+    background-color: #ebd7d6;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 3px 107px 21px 113px; 
+    -moz-border-radius: 3px 107px 21px 113px;
+    -webkit-border-radius: 3px 107px 21px 113px;
+    border: 0px solid #000000;
+    padding: 2%;
+}
+.campo{
+    padding: 3%;
+}
+.campo>label{
+    height: 60%;
+    width: 10%;
+}
+.box>img{
+    height: 50%;
+    width: 50%;
+}
+
